@@ -1,8 +1,7 @@
 {
-  "name": "SocialHub",
-  "version": "2",
+  "name": "socialhub",
+  "version": 2,
   "buildCommand": "next build",
-  "env": {},
   "functions": {
     "api/**/*.ts": {
       "memory": 1024,
