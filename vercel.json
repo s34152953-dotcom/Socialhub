@@ -1,6 +1,5 @@
 {
   "name": "SocialHub",
-  "description": "A full-stack social media app like Instagram and Snapchat combined",
   "version": "1.0.0",
   "buildCommand": "next build",
   "env": {},
